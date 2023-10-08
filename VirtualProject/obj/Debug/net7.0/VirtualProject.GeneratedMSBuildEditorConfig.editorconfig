@@ -1,0 +1,109 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = VirtualProject
+build_property.RootNamespace = VirtualProject
+build_property.ProjectDir = C:\Users\hp\OneDrive\Desktop\Foundations Conuntry Project\Wep Api\BackEnd\VirtualProject\VirtualProject\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\hp\OneDrive\Desktop\Foundations Conuntry Project\Wep Api\BackEnd\VirtualProject\VirtualProject
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/Account/ConfirmResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25maXJtUmVzZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/Account/ConfirmSendMAil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25maXJtU2VuZE1BaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/Account/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/Employee/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcU2hvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/HrEmployee/ShowTasks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSHJFbXBsb3llZVxTaG93VGFza3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/HrManager/AddTasks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSHJNYW5hZ2VyXEFkZFRhc2tzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/HrManager/ShowHrs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSHJNYW5hZ2VyXFNob3dIcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/Layouts/MainLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xNYWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/PartialViews/ProfilePhotoPV.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbFZpZXdzXFByb2ZpbGVQaG90b1BWLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/PartialViews/RoleFormPV.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbFZpZXdzXFJvbGVGb3JtUFYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/ProfileEdite/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZUVkaXRlXFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/Roles/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcU2hvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/Users/AddUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQWRkVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/Users/ManagerRoles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcTWFuYWdlclJvbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/Users/ModifyUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcTW9kaWZ5VXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/Users/ShowUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcU2hvd1VzZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/OneDrive/Desktop/Foundations Conuntry Project/Wep Api/BackEnd/VirtualProject/VirtualProject/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

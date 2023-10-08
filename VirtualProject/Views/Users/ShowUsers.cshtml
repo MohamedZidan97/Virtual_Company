@@ -1,0 +1,74 @@
+﻿
+
+@model IEnumerable<UsersVM>
+@{
+    ViewBag.Title = "ShowUsers";
+}
+
+<h1>ShowUsers</h1>
+
+
+<h1 class="h3 mb-2 text-gray-800">Tables</h1>
+<p class="mb-4">
+    DataTables is a third party plugin that is used to generate the demo table below.
+    For more information about DataTables, please visit the <a target="_blank"
+    href="https://datatables.net">official DataTables documentation</a>.
+</p>
+
+
+<a asp-action="AddUser" class="btn btn-primary">Add User</a>
+<!-- DataTales Example -->
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Email</th>
+                        <th>Roles</th>
+                        <th>IsActive Role</th>
+                        <th>Modify On User</th>
+                    </tr>
+
+                </thead>
+                <tfoot>
+                    <tr>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Email</th>
+                        <th>Roles</th>
+                        <th>IsActive Role</th>
+                        <th>Modify On User</th>
+                    </tr>
+
+                </tfoot>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.FirstName </td>
+                            <td>@item.LastName </td>
+                            <td>@item.Email </td>
+                            <td>@string.Join(" , ",item.Roles.ToList())</td>
+                            <td>
+                                <a asp-action="ManagerRoles" asp-route-Id="@item.Id" class="btn btn-primary">Manage Role</a>
+                            </td>
+                            <td>
+                                <a asp-action="ModifyUser" asp-route-Id="@item.Id" class="btn btn-primary">Modify User</a>
+                            </td>
+                        </tr>
+
+                    }
+
+                </tbody>
+
+            </table>
+
+        </div>
+    </div>
+</div>     

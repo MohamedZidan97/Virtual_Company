@@ -1,0 +1,12 @@
+﻿
+<form asp-controller="ProfileEdite" asp-action="ProfilePhoto" method="get" class="form-group">
+    @if (ViewBag.PhotoName != null)
+    {
+        <img src="~/Files/Photos/@ViewBag.PhotoName" width="30" height="30" />
+    }
+    else
+    {
+        <img src="~/img/undraw_profile.svg" width="30" height="30" />
+    }
+    
+</form>

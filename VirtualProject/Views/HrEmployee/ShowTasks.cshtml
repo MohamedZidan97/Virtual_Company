@@ -1,0 +1,52 @@
+﻿@model IQueryable<VirtualProject.Models.Hr.AddTasksVM>
+@{
+    ViewBag.Title = "ShowTasks";
+}
+
+<h1>ShowTasks</h1>
+
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Name Task</th>
+                        <th>Description Task</th>
+                        <th>Cv Or Data about New Employee</th>
+                        <th>Done</th>
+
+                    </tr>
+
+                </thead>
+                <tfoot>
+                    <tr>
+                        <th>Name Task</th>
+                        <th>Description Task</th>
+                        <th>Cv Or Data about New Employee</th>
+                        <th>Done</th>
+                    </tr>
+                </tfoot>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Name </td>
+                            <td>@item.Description </td>
+                            <td>@item.CvName </td>
+                            <td><a asp-action="DoneTask" asp-route-id="@item.Id" class="btn btn-primary">Done</a></td>
+
+                        </tr>
+                    }
+
+                </tbody>
+
+            </table>
+
+        </div>
+    </div>
+</div>     
